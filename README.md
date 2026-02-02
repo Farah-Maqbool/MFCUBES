@@ -113,13 +113,6 @@ Output:
 
 **Evaluation metrics on Test set:**  
 
-| Metric       | Value |
-|-------------|-------|
-| Accuracy     | 0.44  |
-| Precision    | 0.48  |
-| Recall       | 0.44  |
-| F1-score     | 0.45  |
-
 **Confusion Matrix:**  
 ![Confusion Matrix](confusion_matrix.png)
 
