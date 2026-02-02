@@ -102,14 +102,14 @@ Output:
 
 **Malware Class Labelling**
 
-0 -> Adware
-1 -> Backdoor
-2 -> Downloader
-3 -> Dropper
-4 -> Spyware
-5 -> Trojan
-6 -> Virus
-7 -> Worms
+- 0 -> Adware
+- 1 -> Backdoor
+- 2 -> Downloader
+- 3 -> Dropper
+- 4 -> Spyware
+- 5 -> Trojan
+- 6 -> Virus
+- 7 -> Worms
 
 **Evaluation metrics on Test set:**  
 
@@ -122,6 +122,8 @@ Output:
 
 **Confusion Matrix:**  
 ![Confusion Matrix](confusion_matrix.png)
+
+---
 
 **Classification Report**
 ![Classification Report](classification_report.png)
