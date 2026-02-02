@@ -1,6 +1,5 @@
 all_analysis_data.txt
 all_analysis_data.csv
 preprocessed_dataset.csv
-malware_sequences_int.csv
 labels.csv
 venv/
